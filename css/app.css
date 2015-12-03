@@ -1,0 +1,43 @@
+body, html {
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	background-color: #275a76;
+}
+
+a, h2 {
+	font-family: 'Roboto';
+}
+
+h2 {
+	color: white;
+}
+
+a {
+	color: #f79c41;
+}
+
+.social a {
+	color: white;
+	font-size: 30px;
+	margin: 5px;
+}
+
+section#main {
+	position: relative;
+	top: 100px;
+}
+
+#bottom {
+	font-size: 30px;
+}
+
+#bottom a:hover {
+	color: #f9ba5f;
+}
+
+#bottom .social a:hover {
+	color: #f79c41;
+}
