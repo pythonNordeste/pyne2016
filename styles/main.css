@@ -505,3 +505,7 @@ a:hover {
 .tutorial {
     text-align: left
 }
+
+.tutorial-row {
+    padding-bottom: 0;
+}
